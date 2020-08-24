@@ -8,6 +8,8 @@ This repository is for our 2021 training resources.
 
 ## Kotlin Resources
 - [Hello World](kotlin/helloworld.md)
+- [Calculator](kotlin/calculator.md)
+- [Loops](kotlin/loops.md)
 
 ## Java Resources
 - [Hello World](java/helloworld.md)
