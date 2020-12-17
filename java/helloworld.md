@@ -1,7 +1,7 @@
 # Hello World
 
 ## Prerequisites
-- IntelliJ (IDE)
+- IntelliJ ([IDE](../common/ide.md))
 
 ## Instructions
 1. Create a new project in IntelliJ: `File` -> `New` -> `Project`. On the left, make sure `Java` is selected, then click `Next`. Skip the next page, then name your project and set where the project is saved.

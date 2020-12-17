@@ -1,5 +1,5 @@
 # Programming Basics
-This will teach you about the basics of programming if you are new and have no clue where to start.
+This will teach you about the basics of programming if you are new and have no clue where to start. An important tool to all programmers is a search engine, so there is no shame in looking up concepts that you may not understand in-depth.
 
 ## Object Oriented Programming
 OOP is a framework used to clearly organize your code, which helps with reducing redundant code, reusing code, troubleshooting, and solving complex programming challenges.

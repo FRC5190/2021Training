@@ -3,8 +3,8 @@
 - Practice writing a constructor
 
 ## Prerequisites
-- Hello World program
-- Calculator program
+- [Hello World](helloworld.md)
+- [Calculator] (calculator.md)
 
 ## Instructions
 1. Create a new project called `Loops` and a new Kotlin file within your project. Name the file `Main`.
